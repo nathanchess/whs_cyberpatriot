@@ -10,7 +10,7 @@ import Outreach1 from '../../Assets/Form_Gallery/Outreach1.jpg'
 
 const Registration = () => {
 
-     
+    
 
     return (
         <div class='content'>
